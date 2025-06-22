@@ -134,7 +134,7 @@ export default function SectionInvestment() {
           viewport={{ once: true }}
           transition={{ duration: 0.6, delay: 0.4 }}
         >
-          <h3 className="text-3xl font-display font-semibold text-obsidian-black text-center mb-8">
+          <h3 className="text-3xl font-display font-semibold text-signal-white text-center mb-8">
             Financial Trajectory
           </h3>
 
