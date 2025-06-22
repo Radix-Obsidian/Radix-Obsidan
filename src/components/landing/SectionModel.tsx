@@ -58,7 +58,8 @@ export default function SectionModel() {
           </h2>
           <p className="text-xl text-signal-white/80 max-w-3xl mx-auto">
             Our proven model transforms deep industry pain points into
-            profitable ventures through rapid iteration and strategic spin-outs.
+            profitable ventures through 4-8 week pilot cycles and strategic
+            spin-outs.
           </p>
         </motion.div>
 

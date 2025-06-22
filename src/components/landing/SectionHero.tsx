@@ -65,8 +65,8 @@ export default function SectionHero() {
             </div>
             <div className="w-px h-8 bg-signal-white/20" />
             <div className="text-center">
-              <div className="text-2xl font-bold text-signal-white">90</div>
-              <div className="text-sm text-signal-white/60">Days to MVP</div>
+              <div className="text-2xl font-bold text-signal-white">4-8</div>
+              <div className="text-sm text-signal-white/60">Weeks to Pilot</div>
             </div>
             <div className="w-px h-8 bg-signal-white/20" />
             <div className="text-center">

@@ -6,11 +6,11 @@ export default function SectionInvestment() {
       title: "Massive TAM",
       value: "$50B+",
       description:
-        "Combined addressable market across AI automation, robotics, and sports tech sectors",
+        "Combined addressable market across fintech-edtech, sports tech, and wearable sensors",
       details: [
-        "Waste management automation: $15B",
-        "Sports performance tech: $20B",
-        "Autonomous robotics: $15B+",
+        "Financial literacy education: $15B",
+        "Sports injury prevention: $20B",
+        "Wearable health sensors: $15B+",
       ],
     },
     {

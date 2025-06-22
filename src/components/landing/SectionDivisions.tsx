@@ -249,17 +249,17 @@ export default function SectionDivisions() {
         >
           <div className="text-center p-6 bg-signal-white/5 backdrop-blur-sm rounded-xl border border-signal-white/10">
             <div className="text-3xl font-bold text-signal-white mb-2">3</div>
-            <div className="text-signal-white/80">Active MVPs</div>
+            <div className="text-signal-white/80">Active Pilots</div>
           </div>
           <div className="text-center p-6 bg-signal-white/5 backdrop-blur-sm rounded-xl border border-signal-white/10">
-            <div className="text-3xl font-bold text-signal-white mb-2">6</div>
-            <div className="text-signal-white/80">Team Members</div>
+            <div className="text-3xl font-bold text-signal-white mb-2">3</div>
+            <div className="text-signal-white/80">High Schools</div>
           </div>
           <div className="text-center p-6 bg-signal-white/5 backdrop-blur-sm rounded-xl border border-signal-white/10">
             <div className="text-3xl font-bold text-signal-white mb-2">
-              $500K
+              $6.1M
             </div>
-            <div className="text-signal-white/80">Total Investment</div>
+            <div className="text-signal-white/80">Projected Value</div>
           </div>
         </motion.div>
       </div>

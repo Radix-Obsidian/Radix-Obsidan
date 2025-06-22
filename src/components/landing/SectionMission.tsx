@@ -30,10 +30,10 @@ export default function SectionMission() {
               3
             </div>
             <div className="text-signal-white/80 font-medium">
-              MVPs in 12 Months
+              Active Pilots
             </div>
             <div className="text-signal-white/60 text-sm mt-1">
-              Rapid iteration cycles
+              Canton, Ohio high schools
             </div>
           </div>
 

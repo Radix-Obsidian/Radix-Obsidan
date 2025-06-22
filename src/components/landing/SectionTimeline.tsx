@@ -15,13 +15,13 @@ export default function SectionTimeline() {
     },
     {
       quarter: "Q4 2025",
-      title: "MVP Development",
+      title: "Active Pilots",
       status: "in-progress",
       items: [
-        "Tech Division: Smart Waste Classifier beta",
-        "Robotics Division: Litter Rover prototype",
-        "Sports Division: Form Analytics MVP",
-        "First customer pilots initiated",
+        "Phoenix: Wealth gap platform piloting",
+        "Kinetix AI: Injury prediction in 3 HS",
+        "FlexSense™: Real-time athlete monitoring",
+        "Canton, Ohio pilots launched Fall 2025",
       ],
     },
     {

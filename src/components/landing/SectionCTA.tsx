@@ -65,9 +65,10 @@ export default function SectionCTA() {
                   viewport={{ once: true }}
                   transition={{ duration: 0.6, delay: 0.4 }}
                 >
-                  We've proven our model through 100% bootstrapped operations.
-                  Now join us to scale three MVP successes into profitable
-                  ventures. Limited spots available for seed investors.
+                  Phoenix, Kinetix AI, and FlexSense™ are actively piloting in
+                  Canton, Ohio schools. 93% satisfaction rate proves market fit.
+                  Join us to scale these successes nationwide. Limited spots in
+                  our $5M seed round.
                 </motion.p>
               </div>
 
