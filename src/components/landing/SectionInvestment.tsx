@@ -93,7 +93,7 @@ export default function SectionInvestment() {
               <div className="flex items-start gap-6">
                 {/* Metric */}
                 <div className="text-center">
-                  <div className="text-4xl font-display font-bold text-obsidian-black mb-2">
+                  <div className="text-4xl font-display font-bold text-signal-white mb-2">
                     {point.value}
                   </div>
                   <div className="w-12 h-0.5 bg-electric-purple rounded-full mx-auto" />
@@ -101,10 +101,10 @@ export default function SectionInvestment() {
 
                 {/* Content */}
                 <div className="flex-1">
-                  <h3 className="text-2xl font-display font-semibold text-obsidian-black mb-3">
+                  <h3 className="text-2xl font-display font-semibold text-signal-white mb-3">
                     {point.title}
                   </h3>
-                  <p className="text-obsidian-black/70 mb-4 leading-relaxed">
+                  <p className="text-signal-white/70 mb-4 leading-relaxed">
                     {point.description}
                   </p>
 
@@ -113,7 +113,7 @@ export default function SectionInvestment() {
                     {point.details.map((detail, idx) => (
                       <li
                         key={idx}
-                        className="flex items-start gap-2 text-obsidian-black/60"
+                        className="flex items-start gap-2 text-signal-white/60"
                       >
                         <span className="w-1.5 h-1.5 rounded-full bg-jade-green mt-2 flex-shrink-0" />
                         <span className="text-sm">{detail}</span>
