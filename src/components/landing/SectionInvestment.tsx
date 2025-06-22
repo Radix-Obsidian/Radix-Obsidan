@@ -49,10 +49,14 @@ export default function SectionInvestment() {
   ];
 
   const financialProjections = [
-    { metric: "Current Valuation", value: "$2.5M", status: "pre-seed" },
-    { metric: "Series A Target", value: "$15M", status: "Q2 2026" },
+    {
+      metric: "Current Status",
+      value: "100% Bootstrapped",
+      status: "pre-seed",
+    },
+    { metric: "Seed Round Target", value: "$5M", status: "2025" },
     { metric: "Expected Spin-outs", value: "3-5", status: "2025-2027" },
-    { metric: "Portfolio Value", value: "$50M+", status: "3-year" },
+    { metric: "Series A Target", value: "$50M", status: "2027" },
   ];
 
   return (
@@ -229,7 +233,7 @@ export default function SectionInvestment() {
             <div className="flex items-center gap-3 px-6 py-3 bg-jade-green/20 rounded-full">
               <span className="w-3 h-3 bg-jade-green rounded-full" />
               <span className="text-signal-white font-medium">
-                Series A: Q2 2026
+                Seed Round: Q1 2026
               </span>
             </div>
             <div className="hidden md:block w-8 h-0.5 bg-signal-white/20" />
@@ -241,7 +245,7 @@ export default function SectionInvestment() {
             <div className="flex items-center gap-3 px-6 py-3 bg-signal-white/10 rounded-full">
               <span className="w-3 h-3 bg-signal-white rounded-full" />
               <span className="text-signal-white font-medium">
-                18 Month ROI
+                MVP-Driven ROI
               </span>
             </div>
           </div>

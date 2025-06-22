@@ -9,7 +9,7 @@ export default function SectionTimeline() {
       items: [
         "Team assembly complete",
         "Shipping container HQ operational",
-        "Initial $500K pre-seed funding",
+        "100% bootstrapped operations",
         "Division leads onboarded",
       ],
     },
@@ -26,23 +26,23 @@ export default function SectionTimeline() {
     },
     {
       quarter: "Q1 2026",
-      title: "Market Validation",
+      title: "Seed Round Close",
       status: "upcoming",
       items: [
         "Revenue validation for all MVPs",
         "Customer acquisition proven",
-        "First spin-out candidates identified",
-        "Series A prep initiated",
+        "$5M seed funding secured",
+        "Scale team to 15+ members",
       ],
     },
     {
       quarter: "Q2 2026",
-      title: "Series A Close",
+      title: "Market Expansion",
       status: "upcoming",
       items: [
-        "$5M Series A funding secured",
         "First venture spin-out complete",
-        "Scale team to 20+ members",
+        "Additional market validation",
+        "Series A prep initiated",
         "Next division research begins",
       ],
     },
@@ -233,18 +233,18 @@ export default function SectionTimeline() {
           </div>
           <div className="text-center p-6 bg-signal-white/5 backdrop-blur-sm rounded-xl border border-signal-white/10">
             <div className="text-3xl font-bold text-electric-purple mb-2">
-              Q2 2026
+              Q1 2026
             </div>
-            <div className="text-signal-white/80">Series A Target</div>
+            <div className="text-signal-white/80">Seed Round Target</div>
             <div className="text-signal-white/60 text-xs mt-1">
-              18 months ahead of schedule
+              MVP traction driving timeline
             </div>
           </div>
           <div className="text-center p-6 bg-signal-white/5 backdrop-blur-sm rounded-xl border border-signal-white/10">
             <div className="text-3xl font-bold text-signal-white mb-2">$5M</div>
-            <div className="text-signal-white/80">Funding Goal</div>
+            <div className="text-signal-white/80">Seed Target</div>
             <div className="text-signal-white/60 text-xs mt-1">
-              Pre-seed momentum strong
+              Bootstrapped momentum strong
             </div>
           </div>
         </motion.div>

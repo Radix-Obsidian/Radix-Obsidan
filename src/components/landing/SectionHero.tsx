@@ -70,12 +70,8 @@ export default function SectionHero() {
             </div>
             <div className="w-px h-8 bg-signal-white/20" />
             <div className="text-center">
-              <div className="text-2xl font-bold text-signal-white">
-                Q2 2026
-              </div>
-              <div className="text-sm text-signal-white/60">
-                Series A Target
-              </div>
+              <div className="text-2xl font-bold text-signal-white">$5M</div>
+              <div className="text-sm text-signal-white/60">Seed Target</div>
             </div>
           </div>
         </motion.div>

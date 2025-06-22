@@ -56,7 +56,7 @@ export default function SectionCTA() {
                   viewport={{ once: true }}
                   transition={{ duration: 0.6, delay: 0.2 }}
                 >
-                  Join us before Series A closes
+                  Join our $5M Seed Round
                 </motion.h2>
                 <motion.p
                   className="text-xl text-signal-white/90 leading-relaxed max-w-2xl mx-auto"
@@ -65,9 +65,9 @@ export default function SectionCTA() {
                   viewport={{ once: true }}
                   transition={{ duration: 0.6, delay: 0.4 }}
                 >
-                  Be part of the lab that transforms systemic problems into
-                  profitable ventures. Limited spots available for founding
-                  investors.
+                  We've proven our model through 100% bootstrapped operations.
+                  Now join us to scale three MVP successes into profitable
+                  ventures. Limited spots available for seed investors.
                 </motion.p>
               </div>
 

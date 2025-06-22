@@ -39,13 +39,11 @@ export default function SectionMission() {
 
           <div className="text-center p-8 bg-signal-white/5 backdrop-blur-sm rounded-xl border border-signal-white/10">
             <div className="text-4xl font-display font-bold text-signal-white mb-2">
-              Q2 2026
+              $5M
             </div>
-            <div className="text-signal-white/80 font-medium">
-              Series A Target
-            </div>
+            <div className="text-signal-white/80 font-medium">Seed Target</div>
             <div className="text-signal-white/60 text-sm mt-1">
-              Strategic funding round
+              MVP-driven funding round
             </div>
           </div>
         </motion.div>
