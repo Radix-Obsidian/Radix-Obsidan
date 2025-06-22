@@ -69,10 +69,10 @@ export default function SectionInvestment() {
           viewport={{ once: true }}
           transition={{ duration: 0.6 }}
         >
-          <h2 className="text-5xl lg:text-6xl font-serif text-obsidian-black mb-6">
+          <h2 className="text-5xl lg:text-6xl font-serif text-signal-white mb-6">
             Why Invest Now
           </h2>
-          <p className="text-xl text-obsidian-black/80 max-w-3xl mx-auto leading-relaxed">
+          <p className="text-xl text-signal-white/80 max-w-3xl mx-auto leading-relaxed">
             The convergence of AI maturity, market demand, and diverse
             leadership creates an unprecedented opportunity for venture returns.
           </p>
