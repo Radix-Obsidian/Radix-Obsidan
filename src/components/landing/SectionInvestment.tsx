@@ -170,7 +170,7 @@ export default function SectionInvestment() {
           viewport={{ once: true }}
           transition={{ duration: 0.6, delay: 0.6 }}
         >
-          <h3 className="text-2xl font-display font-semibold text-obsidian-black mb-6 text-center">
+          <h3 className="text-2xl font-display font-semibold text-signal-white mb-6 text-center">
             Risk Mitigation Strategy
           </h3>
 
@@ -179,10 +179,10 @@ export default function SectionInvestment() {
               <div className="w-16 h-16 bg-electric-purple/20 rounded-full flex items-center justify-center mx-auto mb-4">
                 <span className="text-electric-purple text-2xl">🎯</span>
               </div>
-              <h4 className="font-semibold text-obsidian-black mb-2">
+              <h4 className="font-semibold text-signal-white mb-2">
                 Portfolio Approach
               </h4>
-              <p className="text-obsidian-black/70 text-sm">
+              <p className="text-signal-white/70 text-sm">
                 Multiple ventures reduce single-point-of-failure risk
               </p>
             </div>
@@ -191,10 +191,10 @@ export default function SectionInvestment() {
               <div className="w-16 h-16 bg-jade-green/20 rounded-full flex items-center justify-center mx-auto mb-4">
                 <span className="text-jade-green text-2xl">⚡</span>
               </div>
-              <h4 className="font-semibold text-obsidian-black mb-2">
+              <h4 className="font-semibold text-signal-white mb-2">
                 Rapid Validation
               </h4>
-              <p className="text-obsidian-black/70 text-sm">
+              <p className="text-signal-white/70 text-sm">
                 90-day cycles minimize capital exposure per venture
               </p>
             </div>
@@ -203,10 +203,10 @@ export default function SectionInvestment() {
               <div className="w-16 h-16 bg-electric-purple/20 rounded-full flex items-center justify-center mx-auto mb-4">
                 <span className="text-electric-purple text-2xl">💰</span>
               </div>
-              <h4 className="font-semibold text-obsidian-black mb-2">
+              <h4 className="font-semibold text-signal-white mb-2">
                 Revenue First
               </h4>
-              <p className="text-obsidian-black/70 text-sm">
+              <p className="text-signal-white/70 text-sm">
                 Cash-flow positive MVPs before scaling investment
               </p>
             </div>
