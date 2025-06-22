@@ -4,30 +4,30 @@ export default function SectionTestimonials() {
   const testimonials = [
     {
       quote:
-        "Radix prototype cut our recycling labor by 40% in the first pilot week. This isn't just innovation—it's transformation.",
-      author: "Maria Santos",
-      role: "Sustainability Director",
-      company: "Metro Waste Management",
-      logo: "MW",
-      impact: "40% labor reduction",
+        "Kinetix AI's real-time injury prediction has been a game-changer for our football program. The color-coded alerts help us make instant decisions about player safety.",
+      author: "Coach Mike Thompson",
+      role: "Athletic Director",
+      company: "Masslion High School",
+      logo: "MH",
+      impact: "Real-time safety alerts",
     },
     {
       quote:
-        "The Litter Rover exceeded every expectation. Beach cleanup efficiency increased 300% while reducing human exposure to hazardous waste.",
-      author: "Dr. James Chen",
-      role: "Environmental Program Lead",
-      company: "California Coastal Commission",
-      logo: "CC",
-      impact: "300% efficiency gain",
-    },
-    {
-      quote:
-        "Form Analytics identified injury risks we never saw coming. Our athlete injury rate dropped 40% in just one season.",
-      author: "Coach Angela Rivera",
+        "The FlexSense patches give us data we've never had before. We can track rehabilitation progress in real-time and know exactly when athletes are ready to return.",
+      author: "Sarah Williams",
       role: "Head Athletic Trainer",
-      company: "Pacific Sports Institute",
-      logo: "PS",
-      impact: "40% injury reduction",
+      company: "Glenoak High School",
+      logo: "GH",
+      impact: "Precise rehab tracking",
+    },
+    {
+      quote:
+        "Phoenix is helping our students understand financial literacy in ways traditional methods never could. The adaptive coaching is incredibly effective.",
+      author: "Dr. Jennifer Rodriguez",
+      role: "Financial Literacy Coordinator",
+      company: "Jackson High School",
+      logo: "JH",
+      impact: "93% student engagement",
     },
   ];
 
@@ -67,14 +67,15 @@ export default function SectionTestimonials() {
           transition={{ duration: 0.6 }}
         >
           <h2 className="text-4xl lg:text-5xl font-display font-bold text-signal-white mb-6">
-            Early{" "}
+            Active{" "}
             <span className="bg-radix-gradient bg-clip-text text-transparent">
-              Validation
+              Pilots
             </span>
           </h2>
           <p className="text-xl text-signal-white/80 max-w-3xl mx-auto">
-            Real results from our pilot customers and strategic guidance from
-            industry leaders who believe in our mission.
+            Real feedback from our Canton, Ohio high school partners starting
+            this Fall, plus strategic guidance from industry leaders backing our
+            vision.
           </p>
         </motion.div>
 
@@ -194,19 +195,19 @@ export default function SectionTestimonials() {
           transition={{ duration: 0.6, delay: 0.4 }}
         >
           <div className="text-center">
-            <div className="text-2xl font-bold text-signal-white mb-1">15+</div>
+            <div className="text-2xl font-bold text-signal-white mb-1">3</div>
             <div className="text-signal-white/60 text-sm">Pilot Partners</div>
           </div>
           <div className="w-px h-8 bg-signal-white/20" />
           <div className="text-center">
-            <div className="text-2xl font-bold text-signal-white mb-1">98%</div>
+            <div className="text-2xl font-bold text-signal-white mb-1">93%</div>
             <div className="text-signal-white/60 text-sm">
               Satisfaction Rate
             </div>
           </div>
           <div className="w-px h-8 bg-signal-white/20" />
           <div className="text-center">
-            <div className="text-2xl font-bold text-signal-white mb-1">6</div>
+            <div className="text-2xl font-bold text-signal-white mb-1">4</div>
             <div className="text-signal-white/60 text-sm">
               Strategic Advisors
             </div>
@@ -214,9 +215,9 @@ export default function SectionTestimonials() {
           <div className="w-px h-8 bg-signal-white/20" />
           <div className="text-center">
             <div className="text-2xl font-bold text-signal-white mb-1">
-              $2.1M
+              $6.1M
             </div>
-            <div className="text-signal-white/60 text-sm">Value Created</div>
+            <div className="text-signal-white/60 text-sm">Projected Value</div>
           </div>
         </motion.div>
 

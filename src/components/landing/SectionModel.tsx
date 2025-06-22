@@ -171,7 +171,7 @@ export default function SectionModel() {
             <span className="text-signal-white/60 text-sm">
               Time to Pilot:{" "}
             </span>
-            <span className="text-signal-white font-semibold">4-6 Months</span>
+            <span className="text-signal-white font-semibold">4-8 Weeks</span>
           </div>
           <div className="px-6 py-3 bg-signal-white/5 backdrop-blur-sm border border-signal-white/10 rounded-full">
             <span className="text-signal-white/60 text-sm">Success Rate: </span>

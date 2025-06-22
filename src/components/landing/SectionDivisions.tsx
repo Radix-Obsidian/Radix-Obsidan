@@ -6,7 +6,7 @@ export default function SectionDivisions() {
 
   const divisions = {
     tech: {
-      title: "Tech Division",
+      title: "Fintech Division",
       lead: {
         name: "Sarah Chen",
         role: "Lead Engineer",
@@ -14,32 +14,33 @@ export default function SectionDivisions() {
         bio: "Former Meta AI researcher specializing in ML infrastructure and rapid prototyping.",
       },
       mvp: {
-        name: "Smart Waste Classifier",
-        description: "AI-powered waste sorting system for municipal recycling",
-        kpi: "95% accuracy rate",
-        metric: "95%",
-        metricLabel: "Classification Accuracy",
+        name: "Phoenix",
+        description:
+          "Fintech-edtech platform that helps people close the wealth gap using adaptive credit-building tools, personalized coaching, and proprietary 'Readiness Scores'",
+        kpi: "93% user satisfaction",
+        metric: "93%",
+        metricLabel: "User Satisfaction",
       },
-      preview: "Tech MVP Screenshot",
+      preview: "Phoenix Platform Screenshot",
       color: "electric-purple",
     },
     robotics: {
-      title: "Robotics Division",
+      title: "Hardware Division",
       lead: {
         name: "Marcus Johnson",
-        role: "Robotics Engineer",
+        role: "Hardware Engineer",
         avatar: "MJ",
-        bio: "Ex-Boston Dynamics engineer with expertise in autonomous navigation systems.",
+        bio: "Ex-Boston Dynamics engineer with expertise in wearable sensor systems.",
       },
       mvp: {
-        name: "Litter Rover",
+        name: "Kinetix FlexSense™ Patch",
         description:
-          "Autonomous beach cleaning robot with real-time debris mapping",
-        kpi: "95% trash capture",
-        metric: "95%",
-        metricLabel: "Trash Capture Rate",
+          "Flexible, sensor-infused athletic tape that streams real-time rehab and workload data into the Kinetix ecosystem to verify injured area readiness",
+        kpi: "Real-time data streaming",
+        metric: "24/7",
+        metricLabel: "Live Monitoring",
       },
-      preview: "Robotics MVP Screenshot",
+      preview: "FlexSense Patch Demo",
       color: "jade-green",
     },
     sports: {
@@ -51,13 +52,14 @@ export default function SectionDivisions() {
         bio: "Former Nike innovation lab director focused on athlete performance optimization.",
       },
       mvp: {
-        name: "Form Analytics Pro",
-        description: "Real-time biomechanical analysis for injury prevention",
-        kpi: "40% injury reduction",
-        metric: "40%",
-        metricLabel: "Injury Reduction",
+        name: "Kinetix AI",
+        description:
+          "Real-time injury-risk and athlete-health platform that ingests live biometric and workload data, predicts each player's likelihood of injury with color-coded scores",
+        kpi: "3 HS pilots active",
+        metric: "3",
+        metricLabel: "High School Pilots",
       },
-      preview: "Sports MVP Screenshot",
+      preview: "Kinetix AI Platform Screenshot",
       color: "electric-purple",
     },
   };
@@ -77,14 +79,15 @@ export default function SectionDivisions() {
           transition={{ duration: 0.6 }}
         >
           <h2 className="text-4xl lg:text-5xl font-display font-bold text-signal-white mb-6">
-            Three Divisions.{" "}
+            Three MVPs.{" "}
             <span className="bg-radix-gradient bg-clip-text text-transparent">
-              Infinite Possibilities.
+              Active Pilots.
             </span>
           </h2>
           <p className="text-xl text-signal-white/80 max-w-3xl mx-auto">
-            Each division tackles systemic problems in their respective sectors,
-            from AI-powered solutions to autonomous robotics.
+            Phoenix tackles wealth gaps, Kinetix AI prevents sports injuries,
+            and FlexSense™ provides real-time athlete monitoring—all piloting
+            this Fall.
           </p>
         </motion.div>
 
