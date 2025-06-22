@@ -255,7 +255,7 @@ export default function SectionInvestment() {
           viewport={{ once: true }}
           transition={{ duration: 0.6, delay: 1 }}
         >
-          <p className="text-obsidian-black/40 text-xs max-w-4xl mx-auto leading-relaxed">
+          <p className="text-signal-white/40 text-xs max-w-4xl mx-auto leading-relaxed">
             * This presentation contains forward-looking statements. Past
             performance does not guarantee future results. Investment in early
             stage ventures involves substantial risk of loss. Projections are
