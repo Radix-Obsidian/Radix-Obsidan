@@ -221,28 +221,26 @@ export default function SectionInvestment() {
           viewport={{ once: true }}
           transition={{ duration: 0.6, delay: 0.8 }}
         >
-          <h3 className="text-2xl font-display font-semibold text-obsidian-black mb-6">
+          <h3 className="text-2xl font-display font-semibold text-signal-white mb-6">
             Investment Timeline
           </h3>
 
           <div className="flex flex-col md:flex-row items-center justify-center gap-4 md:gap-8">
             <div className="flex items-center gap-3 px-6 py-3 bg-jade-green/20 rounded-full">
               <span className="w-3 h-3 bg-jade-green rounded-full" />
-              <span className="text-obsidian-black font-medium">
+              <span className="text-signal-white font-medium">
                 Series A: Q2 2026
               </span>
             </div>
-            <div className="hidden md:block w-8 h-0.5 bg-obsidian-black/20" />
+            <div className="hidden md:block w-8 h-0.5 bg-signal-white/20" />
             <div className="flex items-center gap-3 px-6 py-3 bg-electric-purple/20 rounded-full">
               <span className="w-3 h-3 bg-electric-purple rounded-full" />
-              <span className="text-obsidian-black font-medium">
-                $5M Target
-              </span>
+              <span className="text-signal-white font-medium">$5M Target</span>
             </div>
-            <div className="hidden md:block w-8 h-0.5 bg-obsidian-black/20" />
-            <div className="flex items-center gap-3 px-6 py-3 bg-obsidian-black/10 rounded-full">
-              <span className="w-3 h-3 bg-obsidian-black rounded-full" />
-              <span className="text-obsidian-black font-medium">
+            <div className="hidden md:block w-8 h-0.5 bg-signal-white/20" />
+            <div className="flex items-center gap-3 px-6 py-3 bg-signal-white/10 rounded-full">
+              <span className="w-3 h-3 bg-signal-white rounded-full" />
+              <span className="text-signal-white font-medium">
                 18 Month ROI
               </span>
             </div>
